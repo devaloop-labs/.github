@@ -19,8 +19,10 @@ whether you're composing music, crafting audio engines, or building DSLs for art
 ## 🛠️ Projects
 
 | Project | Description |
-|--------|-------------|
+|---------|-------------|
 | [**Devalang**](https://github.com/devaloop-labs/devalang) | A domain-specific language (DSL) for music and sound design — write music like code |
+| [**Devalang VSCode Extension**](https://github.com/devaloop-labs/devalang-vscode) | Syntax highlighting and code support for `.deva` files in Visual Studio Code |
+| [**Prettier Plugin for Devalang**](https://github.com/devaloop-labs/prettier-plugin-devalang) | Format your Devalang code with Prettier for consistency and clarity |
 | *Coming soon* | Experimental plugins, audio rendering tools, and cross-platform bridges |
 
 ---
